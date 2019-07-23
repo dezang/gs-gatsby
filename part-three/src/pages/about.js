@@ -1,7 +1,8 @@
 import React from "react"
+import Layout from "../components/layout"
 
 export default () => (
-  <div>
+  <Layout>
     <h1>About me </h1>
     <p>
       Eligendi autem ipsam. Minus incidunt rerum aut quos quaerat. Consequatur
@@ -9,5 +10,5 @@ export default () => (
       vero perferendis autem error est sequi quis. Exercitationem beatae itaque
       nesciunt. Sit architecto voluptas asperiores.
     </p>
-  </div>
+  </Layout>
 )
