@@ -5,6 +5,9 @@
  */
 
 module.exports = {
+  siteMetadata: {
+    title: `Hwangdezang`,
+  },
   plugins: [
     `gatsby-plugin-emotion`,
     {
